@@ -1,3 +1,4 @@
 a text file
 dev-team edit 1
 dev-team edit 2
+community edit 3
